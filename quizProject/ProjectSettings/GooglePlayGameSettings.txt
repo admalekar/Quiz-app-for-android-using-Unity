@@ -1,0 +1,10 @@
+lastUpgrade=00934
+proj.pluginVersion=0.9.34
+proj.AppId=288569809005
+and.BundleId=com.RedJackStudios.TrueOrFalse
+proj.classDir=Assets
+proj.ConstantsClassName=TFResources
+and.ResourceData=%3c%3fxml+version%3d%221.0%22+encoding%3d%22utf-8%22%3f%3e%0d%0a%3c%21--%0d%0aGoogle+Play+game+services+IDs.%0d%0aSave+this+file+as+res%2fvalues%2fgames-ids.xml+in+your+project.%0d%0a--%3e%0d%0a%3cresources%3e%0d%0a++%3cstring+name%3d%22app_id%22%3e288569809005%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22package_name%22%3ecom.RedJackStudios.TrueOrFalse%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_you_are_clever%22%3eCgkI7bDngLMIEAIQAQ%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_quiz_pro%22%3eCgkI7bDngLMIEAIQBw%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_smarty_pants%22%3eCgkI7bDngLMIEAIQAg%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_we_have_a_genius_here%22%3eCgkI7bDngLMIEAIQAw%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_quiz_master%22%3eCgkI7bDngLMIEAIQBA%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_unbeatable%22%3eCgkI7bDngLMIEAIQBQ%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22leaderboard_true_or_false_leaderboard%22%3eCgkI7bDngLMIEAIQBg%3c%2fstring%3e%0d%0a%3c%2fresources%3e
+and.ClientId=
+proj.requireGPlus=false
+android.SetupDone=true

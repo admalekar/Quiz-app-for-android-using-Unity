@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/ThirdVid with ad try.unity
+  isLoaded: 1
+  isActive: 1
